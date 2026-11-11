@@ -30,8 +30,11 @@ Before you can fix computers, you need to understand how Windows works under the
 * [ ] Understand IP addresses (IPv4/IPv6), Subnet Masks, Default Gateways, MAC addresses, and common Ports (HTTP, HTTPS, RDP, SSH, DNS).
 * [ ] Know how DNS, DHCP, Wi-Fi, VPNs, and Windows Firewall work in real office environments.
 * [ ] Practice essential diagnostic commands (`ping`, `tracert`, `ipconfig /all`, `nslookup`, `netstat`).
-* **Free Official Resource:** 
-  * 🎓 **Microsoft Learn – Describe Core Networking Infrastructure / Windows Server Networking Basics** *(Clear, practical, and directly applicable without overwhelming theory)*
+* **Primary Free Resource (Recommended):** 
+  * 🎓 **Microsoft Learn – Windows Server Networking & Core Networking Infrastructure** *(No login required to start reading immediately; clear, practical, and directly applicable)*
+* **Optional Deep-Dive (For Later):** 
+  * 📚 *Cisco Networking Academy (Networking Basics)* – Very thorough if you want to specialize in pure network engineering later, **but be warned:** the platform frequently changes its portal structure and login flow, and the theory is heavy for beginners. Start with Microsoft Learn first!
+
 
 ### Phase 3: Identity, Microsoft 365 & Cloud Administration (Weeks 5–8)
 Modern companies manage their employees, emails, and security through Microsoft environments. Knowing your way around here makes you immediately employable.
