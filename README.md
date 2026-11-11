@@ -61,6 +61,7 @@ Certificates get you noticed, **practical projects get you hired**. Set up these
 - [ ] **Project 1: Virtualization Lab** – Install **VirtualBox** (free) and run a Windows 11 and an Ubuntu Linux virtual machine on your PC.
 - [ ] **Project 2: Active Directory Simulation** – Install a free evaluation version of **Windows Server** in VirtualBox, promote it to a Domain Controller, and create 5 test users and security groups.
 - [ ] **Project 3: Network Ad-Blocker / DNS Server** – Set up **Pi-hole** (either on a Raspberry Pi or inside a Linux VM) to see real-time DNS requests in action.
+- [ ] - [ ] **Project 4 (Optional Visual Lab): Simulate a Company Network** – Download the free **Cisco Packet Tracer** tool. It lets you drag and drop PCs, switches, routers, and cables on your screen and visually watch how data packets, DHCP, and DNS travel through a network in slow motion. *(Note: You don't need to take Cisco's heavy theory courses to use this tool—just create a free account on Skills For All / NetAcad to download the software.)*
 
 ---
 
