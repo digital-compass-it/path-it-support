@@ -17,22 +17,21 @@ Companies actively hire career changers for IT Support because **patience, clear
 ## 🗺️ Step-by-Step Learning Roadmap (8–12 Weeks)
 *100% free, official vendor training – no paid platforms or third-party bootcamps required.*
 
-### Phase 1: Hardware, Operating Systems & Basics (Weeks 1–2)
-Before you can fix computers, you need to understand how they work under the hood.
-* [ ] Understand PC hardware components (CPU, RAM, Storage, BIOS/UEFI).
-* [ ] Master Windows 10/11 administration (Task Manager, Event Viewer, Registry basics, Disk Management).
-* [ ] Learn basic Linux command line navigation (`ls`, `cd`, `grep`, `chmod`, `top`).
-* **Free Official Resources:** 
-  * 🎓 **Cisco Networking Academy – Operating Systems Basics** *(Free, self-paced, includes official digital badge)*
-  * 🎓 **Microsoft Learn – Windows Client Administration & Troubleshooting** *(100% free official Microsoft modules)*
-
-### Phase 2: Networking Fundamentals (Weeks 3–4)
-80% of IT support tickets involve "the internet or network isn't working." If you understand basic networking, you are already ahead of most beginners.
-* [ ] Understand IP addresses (IPv4/IPv6), Subnetting basics, MAC addresses, and Ports.
-* [ ] Know how DNS, DHCP, VPNs, and Firewalls work.
-* [ ] Practice basic diagnostic commands (`ping`, `tracert`/`traceroute`, `ipconfig`/`ifconfig`, `nslookup`).
+### Phase 1: Windows Client, Hardware & OS Basics (Weeks 1–2)
+Before you can fix computers, you need to understand how Windows works under the hood and how to troubleshoot everyday user issues.
+* [ ] Understand basic PC hardware components (CPU, RAM, Storage, BIOS/UEFI) and how they interact with the OS.
+* [ ] Master Windows 10/11 administration (Task Manager, Event Viewer, Device Manager, Disk Management, Safe Mode).
+* [ ] Learn basic command-line troubleshooting (`cmd` and basic Linux shell navigation).
 * **Free Official Resource:** 
-  * 🎓 **Cisco Networking Academy – Networking Basics** *(Industry gold standard for beginners, free digital badge)*
+  * 🎓 **Microsoft Learn – Windows Client Administration & Troubleshooting Modules** *(100% free, practical, step-by-step official Microsoft training)*
+
+### Phase 2: Practical Networking Fundamentals (Weeks 3–4)
+80% of IT support tickets involve "the internet or network isn't working." You do not need dry academic network theory – you need practical troubleshooting skills.
+* [ ] Understand IP addresses (IPv4/IPv6), Subnet Masks, Default Gateways, MAC addresses, and common Ports (HTTP, HTTPS, RDP, SSH, DNS).
+* [ ] Know how DNS, DHCP, Wi-Fi, VPNs, and Windows Firewall work in real office environments.
+* [ ] Practice essential diagnostic commands (`ping`, `tracert`, `ipconfig /all`, `nslookup`, `netstat`).
+* **Free Official Resource:** 
+  * 🎓 **Microsoft Learn – Describe Core Networking Infrastructure / Windows Server Networking Basics** *(Clear, practical, and directly applicable without overwhelming theory)*
 
 ### Phase 3: Identity, Microsoft 365 & Cloud Administration (Weeks 5–8)
 Modern companies manage their employees, emails, and security through Microsoft environments. Knowing your way around here makes you immediately employable.
