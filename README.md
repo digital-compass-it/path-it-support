@@ -55,6 +55,14 @@ Once you know how to click through admin panels, learning a few basic commands w
 
 ---
 
+### ⚡ Optional Power-Up: Basic PowerShell (No Developer Background Needed)
+* **Is it required to start?** **No.** You can start with graphical tools and no-code workflows first.
+* **Why learn it anyway?** Because almost every modern company runs on Windows and Microsoft 365, knowing basic PowerShell commands sets you apart from 90% of entry-level applicants. Even better: with modern AI tools, you don't have to memorize syntax – you just need to understand enough to read, test, and safely run simple automation scripts.
+* **Free Official Resource:** 
+  * 🎓 **Microsoft Learn – Introduction to PowerShell** *(100% free, includes an interactive browser sandbox)*
+
+---
+
 ## 🛠️ Hands-On Home Lab: Build Your Proof of Skills
 Certificates get you noticed, **practical projects get you hired**. Set up these 3 free projects on your own computer (or Raspberry Pi) and put them on your CV:
 
